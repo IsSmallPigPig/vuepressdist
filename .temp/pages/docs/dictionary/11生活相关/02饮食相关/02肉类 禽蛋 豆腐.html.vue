@@ -1,0 +1,102 @@
+<template><div><p>☀ <span class="category"><strong>肉类 禽蛋 豆腐：</strong></span>
+<span class="vocabulary"><strong>meat</strong></span> [mi:t]
+<span class="definition">n. [U, C] 被作为食物的（动物或禽鸟的）肉；某类供食用的肉：</span>meat-eating animals 食肉动物 / I’m not a great meat eater. 我吃肉不多。/ salted, smoked meat 腌肉；烟熏肉 / frozen meat 冻肉 / meat production 肉类生产 / meat consumption 肉类消费</p>
+<p><span class="vocabulary"><strong>cut</strong></span> [kʌt]
+<span class="definition">n. [C] 从动物躯体上割下的一块肉：</span>a cheap cut 一块便宜的肉 / a good cut of beef 一块上好的牛肉</p>
+<p><span class="vocabulary"><strong>joint</strong></span> [dʒɔɪnt]
+<span class="definition">n. [C] [英]（适于烧烤的）大块肉；一块烤肉：</span>bacon joint 熏肉块 / a joint of beef 一大块（带骨）牛肉 / a joint of lamb 一大块（带骨）羔羊肉 / a joint of pork 一大块（带骨）猪肉 / the Sunday joint (= one traditionally eaten on a Sunday) 礼拜天吃的大块烤肉</p>
+<p><span class="vocabulary"><strong>side</strong></span> [saɪd]
+<span class="definition">n. [C] a side of beef/bacon, etc. 一扇（即一半）牛肉、猪肉等：</span>了解即可</p>
+<p><span class="vocabulary"><strong>pork</strong></span> [pɔ:k]
+<span class="definition">n. [U] 猪肉（常为新鲜的，未用盐腌过或未用烟熏过的猪肉）：</span>a leg of pork 猪腿肉 / roast pork 烤猪肉 / pork sausage 猪肉香肠 / pork butcher（尤英）猪肉贩</p>
+<p><span class="vocabulary"><strong>beef</strong></span> [bi:f]
+<span class="definition">n. [U] 牛肉：</span>fatty beef 肥牛肉 / tough beef 嚼不动的牛肉 / medium beef 中等熟度的牛肉 / sliced beef 牛肉片</p>
+<p><span class="vocabulary"><strong>mutton</strong></span> ['mʌtn]
+<span class="definition">n. [U] 供食用的成年绵羊的肉，即羊肉：</span>a leg of mutton 羊腿肉</p>
+<p><span class="vocabulary"><strong>lamb</strong></span> [læm]
+<span class="definition">n. [U] 羔羊肉：</span>the leg of lamb 羔羊腿肉 / grilled lamb 烤羔羊肉</p>
+<p><span class="vocabulary"><strong>fish</strong></span> [fɪʃ]
+<span class="definition">n. [U] 作为食物的鱼，鱼肉：</span>fresh fish 鲜鱼 / frozen, salted fish 冻鱼；咸鱼 / fried, grilled fish 炸鱼；烤鱼 / fish soup 鱼汤</p>
+<p><span class="vocabulary"><strong>fillet</strong></span> [ˈfɪlɪt; 美 fɪˈleɪ]
+<span class="definition">n. [C, U]（美式英语也可用filet）无骨的肉（尤指牛肉）或鱼：</span>fish fillet 鱼片 / cod, salmon fillet 鳕鱼片；鲑鱼片 / beef, pork fillet 牛肉片；猪肉片 / fillet steak（尤英）无骨牛排 / fillet of beef with shallots 葱香无骨牛肉片 / chicken breast fillets 鸡脯肉片 / plaice fillets 鲽鱼片 / anchovy fillets 去骨鳀鱼片 / I ordered a fine fillet of salmon. 我点了一份精品去骨鲑鱼片。/ a fillet of cod 一片鳕鱼 / fillet knife 片鱼刀</p>
+<p><span class="vocabulary"><strong>poultry</strong></span> [ˈpəʊltri; 美 ˈpoʊ-]
+<span class="definition">n. [U] 可实用的禽肉：</span>Eat plenty of fish and poultry. 要多吃鱼和禽肉。/ poultry dish 用家禽做的菜肴 / a wine that goes well with fish and poultry dishes 一种适宜在吃鱼和家禽时饮用的葡萄酒</p>
+<p><span class="vocabulary"><strong>chicken</strong></span> ['tʃɪkɪn]
+<span class="definition">n. [U] 鸡肉：</span>fried chicken 炸鸡 / roast chicken 烤鸡肉（或烧鸡）/ chicken soup 鸡汤</p>
+<p><span class="vocabulary"><strong>broiler</strong></span> [ˈbrɔɪlə(r)]
+<span class="definition">n. [C]（也可用broiler chicken）[尤美]（适于烤焙的）嫩鸡：</span>了解即可</p>
+<p><span class="vocabulary"><strong>quail</strong></span> [kweɪl]
+<span class="definition">n. [C, U] 鹌鹑肉：</span>了解即可</p>
+<p><span class="vocabulary"><strong>turkey</strong></span> ['tə:kɪ]
+<span class="definition">n. [U] 火鸡肉：</span>a turkey dinner 火鸡宴 / roast turkey 烤火鸡 / turkey sandwich 火鸡三明治</p>
+<p><span class="vocabulary"><strong>duck</strong></span> [dʌk]
+<span class="definition">n. [U] 鸭肉：</span>roasted duck 烤鸭 / Slice the duck breast and serve. 把鸭胸脯切成薄片后端上来。</p>
+<p><span class="vocabulary"><strong>goose</strong></span> [ɡu:s]
+<span class="definition">n. [U] 鹅肉：</span>roast goose 烤鹅</p>
+<p><span class="vocabulary"><strong>rabbit</strong></span> ['ræbɪt]
+<span class="definition">n. [U] 兔肉：</span>了解即可</p>
+<p><span class="vocabulary"><strong>brain</strong></span> [breɪn]
+<span class="definition">n. [pl.] 供食用的动物大脑：</span>sheep’s brains 羊脑</p>
+<p><span class="vocabulary"><strong>tongue</strong></span> [tʌŋ]
+<span class="definition">n. [U, C] 供烹饪或食用的动物舌头：</span>a slice of ox tongue 一条牛舌</p>
+<p><span class="vocabulary"><strong>leg</strong></span> [leɡ]
+<span class="definition">n. [C, U] leg (of sth) 供烹饪和食用的动物腿肉：</span>a chicken leg 一只鸡腿 / roast leg of lamb 烤羊腿</p>
+<p><span class="vocabulary"><strong>thigh</strong></span> [θaɪ]
+<span class="definition">n. [C] 可烹饪并食用的动物的大腿（如鸡大腿）：</span>chicken thigh 鸡大腿</p>
+<p><span class="vocabulary"><strong>liver</strong></span> [ˈlɪvə(r)]
+<span class="definition">n. [U, C] 动物的可供烹饪和食用的肝：</span>chicken, goose, pork liver 鸡肝；鹅肝；猪肝 / calf's, lamb's liver 小牛肝；小羊肝 / liver pâté 肝酱 / liver and onions 洋葱炒肝</p>
+<p><span class="vocabulary"><strong>kidney</strong></span> [ˈkɪdni]
+<span class="definition">n. [U, C] 动物的可供烹饪和食用的肾脏，即腰子：</span>lambs' kidneys 羊腰子 / steak and kidney pie 牛肉腰花馅饼</p>
+<p><span class="vocabulary"><strong>wing</strong></span> [wɪŋ]
+<span class="definition">n. [C] 供烹饪和食用的动物翅膀：</span>to fry the chicken wings in the oil 把鸡翅放到油里炸 / spicy wing 香辣翅膀</p>
+<p><span class="vocabulary"><strong>breast</strong></span> [brest]
+<span class="definition">n. [C, U] 禽鸟或动物的胸脯肉：</span>a chicken breast 鸡胸肉 / breast of lamb 羊羔胸脯肉</p>
+<p><span class="vocabulary"><strong>shoulder</strong></span> ['ʃəʊldə]
+<span class="definition">n. [U, C] shoulder (of sth) 动物的前腿连肩肉：</span>shoulder of lamb 羊的前腿肉</p>
+<p><span class="vocabulary"><strong>neck</strong></span> [nek]
+<span class="definition">n. [U] neck (of sth) 用以烹制和食用的动物颈部：</span>neck of duck 鸭脖</p>
+<p><span class="vocabulary"><strong>rack</strong></span> [ræk]
+<span class="definition">n. [C] ~ of lamb/pork（羊、猪等带前肋的）颈脊肉：</span>了解即可</p>
+<p><span class="vocabulary"><strong>saddle</strong></span> [ˈsædl]
+<span class="definition">n. [C] 动物（如羊、兔或鹿）的脊背上的肉：</span>了解即可</p>
+<p><span class="vocabulary"><strong>chop</strong></span> [tʃɒp; 美 tʃɑ:p]
+<span class="definition">n. [C]（尤指猪或羊的）带骨头的厚肉片，如排骨：</span>pork, lamb chop 猪排；小羊排 / grilled lamb chops 烤小羊排 / mutton chop（尤英）羊排 / veal chop 小牛排 / loin chop 大排 / pork loin chops 猪大排</p>
+<p><span class="vocabulary"><strong>rib</strong></span> [rɪb]
+<span class="definition">n. [U, C]（可食用的）动物排骨、肋条（肉）：</span>a rib of beef 牛排 / pork ribs in sweet sauce 带甜酱的猪排</p>
+<p><span class="vocabulary"><strong>fat</strong></span> [fæt]
+<span class="definition">n. 1 [C, U]（烹调用的）动植物脂肪：</span>dietary fat 食用油脂 / animal, vegetable fat 动物油脂；植物油脂 / unsaturated fat 不饱和脂肪 / pork fat 猪油 <span class="definition">2 [C, U]（人体所摄入的或食物中的）动植物脂肪：</span>to cut the amount of fat in your diet 减少你饮食的脂肪摄入量 / foods which are low in fat 低脂肪食物 / This ham has too much fat on it. 这块火腿肥肉太多。</p>
+<p><span class="vocabulary"><strong>skinny</strong></span> [ˈskɪni]
+<span class="definition">adj. [美，非正式] 低脂肪的：</span>a skinny latte 低脂肪的热奶沫咖啡</p>
+<p><span class="vocabulary"><strong>lean</strong></span> [li:n]
+<span class="definition">n. [U] 瘦肉：</span>了解即可 <span class="definition">adj.（肉）脂肪少的、无脂肪的：</span>It is a beautiful meat, very lean and tender. 这块肉很好，又瘦又嫩。/ the leanest ground beef you can get 买得到的最瘦的碎牛肉</p>
+<p><span class="vocabulary"><strong>steak</strong></span> [steɪk]
+<span class="definition">n. 1 [U, C] 厚厚的一片上好牛肉，即牛排：</span>How would you like your steak done? 您的牛排要几成熟？/ medium steak 半熟牛排 / juicy steak 多汁的牛排 / grilled steak 烤牛排 <span class="definition">2 [U, C] 厚厚的一片任何肉，即肉排，肉块：</span>pork steak 猪排 <span class="definition">3 [U] 常构成复合词，质量并非最佳的牛肉（常以小块的形式出售，用于做馅或炖煮等）：</span>stewing steak 适合于炖的牛肉块 / a steak and kidney pie 牛肉腰子馅饼 <span class="definition">4 [C] 一片大而厚的鱼肉，即鱼排，鱼块：</span>a cod steak 鳕鱼排</p>
+<p><span class="vocabulary"><strong>ham</strong></span> [hæm]
+<span class="definition">n. [C, U] 用盐腌过或用烟熏过的猪大腿肉（作为食物），即火腿；还可指此种火腿肉：</span>a slice of ham 一片火腿 / a ham sandwich 火腿三明治 / smoked ham 熏火腿</p>
+<p><span class="vocabulary"><strong>sausage</strong></span> ['sɒsɪdӡ]
+<span class="definition">n. [C, U]（用肉、肥肉、面包等灌制的）香肠，腊肠：</span>pork sausages 猪肉香肠 / blood, garlic sausage 血肠；蒜肠 / smoked sausage 熏肠 / sausage sandwich 香肠三明治</p>
+<p><span class="vocabulary"><strong>snag</strong></span> [snæg]
+<span class="definition">n. [C][澳大利亚；新西兰；非正式] 香肠：</span>了解即可</p>
+<p><span class="vocabulary"><strong>skin</strong></span> [skɪn]
+<span class="definition">n. [C, U] 香肠的外皮，肠衣：</span>了解即可</p>
+<p><span class="vocabulary"><strong>bacon</strong></span> ['beɪkən]
+<span class="definition">n. [U] 用盐腌过或用烟熏过的猪肉（常切成片以供食用），即咸猪肉，熏猪肉：</span>Fry the bacon until crisp. 把熏肉煎至酥脆。</p>
+<p><span class="vocabulary"><strong>roast</strong></span> [rəʊst]
+<span class="definition">n. [C]（英也用joint）在烤箱里烤的一大块肉：</span>the Sunday roast 星期日烤肉大餐</p>
+<p><span class="vocabulary"><strong>grill</strong></span> [ɡrɪl]
+<span class="definition">n. [C] 一盘烧烤出来的食物（尤指烤肉）：</span>了解即可</p>
+<p><span class="vocabulary"><strong>jerk</strong></span> [dʒɜ:k; 美 dʒɜ:rk]
+<span class="definition">n. [U] 在烹饪前用油和香辛料腌制，然后放在木火上烤的肉：</span>jerk chicken 烤鸡</p>
+<p><span class="vocabulary"><strong>egg</strong></span> [eɡ]
+<span class="definition">n. [C, U]（用作食物的）禽蛋，尤指鸡蛋：</span>Break the eggs into a bowl and beat them lightly. 把鸡蛋打在一个碗里并且稍微搅打。/ egg white, egg yolk 蛋清；蛋黄 / egg wash 蛋浆 / egg sandwich 鸡蛋三明治</p>
+<p><span class="vocabulary"><strong>white</strong></span> [waɪt]
+<span class="definition">n. [C, U] 蛋清（围绕着蛋黄的那一部分）：</span>egg white 蛋清；蛋白 / to beat white 搅打蛋清</p>
+<p><span class="vocabulary"><strong>shell</strong></span> [ʃel]
+<span class="definition">n. [C, U]（蛋等的）壳：</span>egg shell（通常用eggshell）蛋壳 / Once the eggs have hatched the shells are left behind. 一旦鸡蛋孵化后，蛋壳就没用了。</p>
+<p><span class="vocabulary"><strong>bean curd</strong></span> ['bi:nkə:d]
+<span class="definition">n. [U] 豆腐，相当于tofu：</span>了解即可</p>
+<p>相关词义延伸：
+· fat还可指（人或动物的）脂肪，肥肉。</p>
+</div></template>
+
+

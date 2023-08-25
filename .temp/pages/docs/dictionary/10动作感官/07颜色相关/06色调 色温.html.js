@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-611f33c7\",\"path\":\"/docs/dictionary/10%E5%8A%A8%E4%BD%9C%E6%84%9F%E5%AE%98/07%E9%A2%9C%E8%89%B2%E7%9B%B8%E5%85%B3/06%E8%89%B2%E8%B0%83%20%E8%89%B2%E6%B8%A9.html\",\"title\":\"\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[],\"git\":{\"createdTime\":null,\"updatedTime\":null,\"contributors\":[]},\"filePathRelative\":\"docs/dictionary/10动作感官/07颜色相关/06色调 色温.md\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

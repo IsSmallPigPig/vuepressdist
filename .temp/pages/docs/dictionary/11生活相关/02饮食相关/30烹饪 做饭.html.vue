@@ -1,0 +1,153 @@
+<template><div><p>☀ <span class="category"><strong>烹饪 做饭：</strong></span>
+<span class="vocabulary"><strong>cookery</strong></span> [ˈkʊkəri]
+<span class="definition">n. [U] 烹饪术；烹饪：</span>Before he leaves home，he needs to learn some basic cookery. 离家之前，他需要学点儿基本的烹饪技巧。/ vegetarian cookery 素食烹调 / cordon bleu cookery（法国）名厨烹饪 / microwave cookery 微波炉烹调 / Chinese，Eastern，French cookery 中式烹饪；东方烹饪；法式烹饪 / cookery demonstration 烹饪示范 / cookery class, cookery course, cookery lesson, cookery school 烹饪班；烹饪课程；烹饪学校 / cookery book（英）, cookery column, cookery magazine, cookery programme/program 烹饪书籍；烹饪专栏；烹饪杂志；烹饪节目 / cookery expert, cookery writer 烹饪专家；烹饪作家 / The school runs cookery courses throughout the year. 这个学校常年开设烹饪学习班。</p>
+<p><span class="vocabulary"><strong>cooking</strong></span> [ˈkʊkɪŋ]
+<span class="definition">n. [U] 烹饪、烹调：</span>Who does most of the cooking in your house? 你家里主要由谁做饭?/ My husband does all the cooking. 我丈夫把做饭全包了下来。/ a book on Indian cooking 一本关于印度烹饪的书 / vegetarian cooking 素食烹饪 / slow cooking 慢火烹调 / cooking show（= on TV）（美）电视烹饪节目 / Stir the mixture to prevent the beans sticking to the bottom during cooking. 烹制过程中搅一搅食材，以免豆子粘到锅底 / I use yogurt a lot in cooking. 我烹调食物时用很多酸奶。<span class="definition">adj. 适于烹饪的（不宜于生吃或直接饮用的）：</span>cooking oil 食用油 / Finely slice the cooking apples. 把烹调用的苹果切成薄片。/ cooking chocolate 烹调用的巧克力 / cooking sherry 烹饪用的雪利酒</p>
+<p><span class="vocabulary"><strong>cuisine</strong></span> [kwɪ'zi:n]
+<span class="definition">n. [U, C] 一种烹饪风格：</span>Italian cuisine 意大利式烹饪</p>
+<p><span class="vocabulary"><strong>fusion</strong></span> [ˈfju:ʒn]
+<span class="definition">n. [U] 不同方式或风格的混合烹调：</span>French–Thai fusion 法泰式混合烹饪</p>
+<p><span class="vocabulary"><strong>fix</strong></span> [fɪks]
+<span class="definition">vt. [尤美] fix sth (for sb) / fix sb sth 提供或准备…，尤指提供或准备食物或饮料：</span>I’ll fix breakfast. 我来准备早饭。/ Let me fix you a drink. 让我给你弄一杯饮料吧。</p>
+<p><span class="vocabulary"><strong>do</strong></span> [du:]
+<span class="definition">vt. 烹制某东西。是一个简单用词：</span>How would you like your steak done? 你的牛排要几成熟？</p>
+<p><span class="vocabulary"><strong>prepare</strong></span> [prɪ'peə]
+<span class="definition">vt. 预备饭菜（以供食用），做饭。较常用：</span>He was in the kitchen preparing lunch. 他在厨房做午饭。/ a meal that is very quick and easy to prepare 准备起来方便快捷的一餐</p>
+<p><span class="vocabulary"><strong>get</strong></span> [ɡet]
+<span class="definition">vt. [尤英] get sth (for yourself/sb) / get (yourself/sb) sth 准备餐饭，做饭：</span>Who’s getting the lunch? 谁在做中午饭？/ I must go home and get tea for the kids. 我得回家为孩子们准备茶点。</p>
+<p><span class="vocabulary"><strong>dress</strong></span> [dres]
+<span class="definition">vt. 准备食物以供烹饪或食用：</span>to dress a salad 给色拉加调味酱（放油、醋等）/ to dress a chicken 给鸡去毛开膛</p>
+<p><span class="vocabulary"><strong>cook</strong></span> [kʊk]
+<span class="definition">vt.＆vi. 烹调，烹饪食物（如通过煮、烘烤、煎炸等方式而烹调）。是此义的常规用词，最为常用：</span>Where did you learn to cook? 你在哪里学的烹调？/ Who’s going to cook supper? 谁来做晚饭？/ Make sure you cook the meat well. 肉一定要煮熟。<span class="definition">vi.（食物）通过煮、烘烤、煎炸等方式而将被预备好：</span>While the pasta is cooking, prepare the sauce. 煮面的工夫，准备浇头。</p>
+<p><span class="vocabulary"><strong>make</strong></span> [meɪk]
+<span class="definition">vt.（通过把各种材料组合在一起而）制作食物或饮料：</span>make cake 做蛋糕 / make bread 制作面包 / The grapes are made into wine. 这些葡萄用来酿酒。/ She made coffee for us all. 她给我们大家冲了咖啡。</p>
+<p><span class="vocabulary"><strong>clean</strong></span> [kli:n]
+<span class="definition">vt. 将鱼、鸡等在烹制前清除内脏：</span>了解即可</p>
+<p><span class="vocabulary"><strong>gut</strong></span> [gʌt]
+<span class="definition">vt. 取出鱼或动物的内脏（以供烹饪）：</span>It is not always necessary to gut the fish prior to freezing. 冷冻鱼之前并不总是需要先把内脏掏空。</p>
+<p><span class="vocabulary"><strong>scale</strong></span> [skeɪl]
+<span class="definition">vt. 给鱼刮除鳞片：</span>了解即可</p>
+<p><span class="vocabulary"><strong>skin</strong></span> [skɪn]
+<span class="definition">vt. 剥去或削去动物、蔬菜或水果的皮：</span>to skin a rabbit 剥兔皮 / a skinned potato 一个已去皮的土豆</p>
+<p><span class="vocabulary"><strong>shell</strong></span> [ʃel]
+<span class="definition">vt. 给坚果、豌豆、虾等去壳：</span>She shelled and ate a few nuts. 她剥了几个坚果吃了。/ shelled prawns 去了皮的对虾</p>
+<p><span class="vocabulary"><strong>core</strong></span> [kɔ:(r)]
+<span class="definition">vt. 去掉果核：</span>machines for peeling and coring apples 苹果削皮去核机</p>
+<p><span class="vocabulary"><strong>pit</strong></span> [pɪt]
+<span class="definition">vt. [常用被动式] 给水果去核，相当于stone：</span>pitted olives 去核橄榄</p>
+<p><span class="vocabulary"><strong>stone</strong></span> [stəʊn]
+<span class="definition">vt. [英；美、英还用pit]（将水果）去掉果核：</span>stoned black olives 去核黑橄榄</p>
+<p><span class="vocabulary"><strong>bone</strong></span> [bəʊn]
+<span class="definition">vt. 剔掉骨头或鱼刺：</span>to bone the chicken 给鸡剔去骨头</p>
+<p><span class="vocabulary"><strong>fillet</strong></span> [ˈfɪlɪt; 美 fɪˈleɪ]
+<span class="definition">vt. 剔去（鱼、肉的）骨头：</span>Don't be afraid to ask your fishmonger to fillet flat fish. 尽管叫鱼贩子把比目鱼的鱼刺剔掉。</p>
+<p><span class="vocabulary"><strong>juice</strong></span> [dӡu:s]
+<span class="definition">vt.（从水果或蔬菜中）榨出汁液，即榨汁。是将名词用作动词：</span>Juice two oranges. 将两个橙子榨汁。</p>
+<p><span class="vocabulary"><strong>press</strong></span> [pres]
+<span class="definition">vt.（通过用力量或重量而）从水果或蔬菜中榨汁：</span>了解即可</p>
+<p><span class="vocabulary"><strong>squeeze</strong></span> [skwi:z]
+<span class="definition">vt. squeeze sth (out of/from sth) / squeeze sth (out) 榨出汁。此时与press未见明显区别：</span>freshly squeezed orange juice 现榨的橙汁</p>
+<p><span class="vocabulary"><strong>strain</strong></span> [streɪn]
+<span class="definition">vt. 过滤（食物等）（使其固体和液体部分分离）：</span>Use a colander to strain the vegetables. 把蔬菜放在漏筐里控控水。/ Strain off any excess liquid. 滤掉多余的液体。</p>
+<p><span class="vocabulary"><strong>drain</strong></span> [dreɪn]
+<span class="definition">vt.&amp;vi. 烹调中沥干水分、油脂等：</span>Drain the pasta well, arrange on four plates and pour over the sauce. 将意大利面中的水分滤干，放在4个盘子里再淋上调味汁。/ Wash the leeks thoroughly and allow them to drain. 彻底清洗韭葱，再沥去水分。/ Remove the artichokes, drain thoroughly and allow to cool. 取出洋蓟，沥干水分后让其冷却。/ Drain and rinse the pasta. 把通心粉过一过水。/ Drain off the excess fat from the meat. 把肉里面多余的油沥掉。/ Leave the dishes to drain. 把碟子控干。</p>
+<p><span class="vocabulary"><strong>ferment</strong></span> [fəˈment; 美 fərˈm-]
+<span class="definition">vt.&amp;vi.（使）发酵：</span>Fruit juices ferment if they are kept for too long. 果汁存放过久就会发酵。/ Red wine is fermented at a higher temperature than white. 红葡萄酒发酵的温度比白葡萄酒高。/ The dried grapes are allowed to ferment until there is no sugar left and the wine is dry. 让干葡萄发酵，直到糖分全部脱出，酒无甜味。/ To serve the needs of bakers, manufacturers ferment the yeast to produce a more concentrated product. 为了满足面包店主的需要，制造商让酵母发酵，以生产出浓度更高的产品。/ A blend of emotions fermented inside her.（比喻用法）她百感交集，激动不已。</p>
+<p><span class="vocabulary"><strong>rise</strong></span> [raɪz]
+<span class="definition">vi.（面包、蛋糕等）发酵：</span>了解即可</p>
+<p><span class="vocabulary"><strong>prove</strong></span> [pru:v]
+<span class="definition">vi. 面包在烘焙前由于发酵作用而隆起，相当于rise：</span>了解即可</p>
+<p><span class="vocabulary"><strong>carve</strong></span> [kɑːv]
+<span class="definition">vt.＆vi. 把煮过的肉切成小块以供食用：</span>Who’s going to carve the turkey? 谁来把火鸡切成小块？</p>
+<p><span class="vocabulary"><strong>slice</strong></span> [slaɪs]
+<span class="definition">vt. slice sth (up) 把…切成片：</span>The knife sliced cleanly through the flesh. 那把刀干净利索地把肉切成片。/ He sliced pieces off the large steak. 他从大块肉排上切下来几片。/ Slice the onion in two. 把洋葱切成两半。</p>
+<p><span class="vocabulary"><strong>cube</strong></span> [kju:b]
+<span class="definition">vt. 把食物切成小立方块：</span>Remove the seeds and stones and cube the flesh. 去除籽和核，然后把果肉切成方块。</p>
+<p><span class="vocabulary"><strong>dice</strong></span> [daɪs]
+<span class="definition">vt. 将（肉、菜等食物）切成小方块；将…切成丁：</span>diced carrots 胡萝卜丁 / Dice the onion. 把洋葱切成丁。/ Add the crushed garlic and remaining diced vegetables. 加入捣碎的大蒜和剩余的蔬菜丁。</p>
+<p><span class="vocabulary"><strong>section</strong></span> ['sekʃn]
+<span class="definition">vt. 将食材或食物切分成若干部分：</span>to section vegetables 切蔬菜</p>
+<p><span class="vocabulary"><strong>quarter</strong></span> ['kwɔ:tə]
+<span class="definition">vt. 把…切成（或分成）四部分：</span>to quarter an tomato 把番茄切成四块</p>
+<p><span class="vocabulary"><strong>joint</strong></span> [dʒɔɪnt]
+<span class="definition">vt. 把肉切成大块（通常带骨）：</span>了解即可</p>
+<p><span class="vocabulary"><strong>shred</strong></span> [ʃred]
+<span class="definition">vt. 切碎；撕碎：</span>Serve the fish on a bed of shredded lettuce. 先铺一层碎生菜叶，再把鱼放上，就可以上桌了。/ Finely shred the carrots, cabbage and cored apples. 将胡萝卜、卷心菜切成细丝并给苹果去核。</p>
+<p><span class="vocabulary"><strong>grate</strong></span> [greɪt]
+<span class="definition">vt.（用磨碎器）擦碎，磨碎（食物）：</span>grated apple, grated carrot 擦成细丝的苹果；擦成细丝的胡萝卜 / Sprinkle the top of the dish with some finely grated cheese. 在菜肴上撒一些磨得碎碎的干酪。/ Grate the cheese into a mixing bowl. 将干酪磨碎放进搅拌碗中。/ a teaspoon of freshly grated nutmeg 一茶匙刚磨好的肉豆蔻</p>
+<p><span class="vocabulary"><strong>ground</strong></span> [ɡraʊnd]
+<span class="definition">adj. 只用于名词前，（食物）切碎或磨碎的，磨细的：</span>ground coffee 咖啡粉 / coarsely ground beef 切得很粗的牛肉</p>
+<p><span class="vocabulary"><strong>flour</strong></span> ['flaʊə]
+<span class="definition">vt. 常用被动式，用一层面粉来覆盖…（如在…上撒上一层面粉）：</span>Roll the dough on a lightly floured surface. 揉生面团时，案板上要撒点儿面粉。</p>
+<p><span class="vocabulary"><strong>brush</strong></span> [brʌʃ]
+<span class="definition">vt. brush A with B / brush B over A 用刷子将某物（例如油、奶或蛋）涂抹到…上：</span>Brush the dough with beaten egg yolk. 在生面团上刷一层打好的蛋黄。</p>
+<p><span class="vocabulary"><strong>spread</strong></span> [spred]
+<span class="definition">vt.＆vi. spread (A on/over B) / spread (B with A) 把一种物质涂抹到食物的表面；或能够被涂抹到食物表面：</span>to spread the mixture in the cake pan 把该混合物摊在蛋糕烤盘里</p>
+<p><span class="vocabulary"><strong>coat</strong></span> [kəʊt]
+<span class="definition">vt. coat sth (with/in sth) 给食物涂上（或覆盖上）一层…：</span>Liberally coat the fish fillets with flour. 把鱼柳裹上厚厚的面粉。</p>
+<p><span class="vocabulary"><strong>smother</strong></span> [ˈsmʌðə(r)]
+<span class="definition">vt. ~ sth/sb with/in sth 用某物厚厚地覆盖：</span>a rich dessert smothered in cream 涂了厚厚一层奶油的多脂甜点</p>
+<p><span class="vocabulary"><strong>dredge</strong></span> [dredʒ]
+<span class="definition">vt. ~ (in/with) 用糖、面粉等轻轻地覆盖在食物上：</span>Dredge the top of the cake with icing sugar. 把糖霜撒在蛋糕表面。</p>
+<p><span class="vocabulary"><strong>grease</strong></span> [gri:s]
+<span class="definition">vt. 在…上涂油（或抹油、擦油）：</span>to grease a cake tin, to grease a cake pan 在蛋糕烤模上抹油；在蛋糕烤盘上抹油 / Place the cakes on a lightly greased baking tray. 把蛋糕放在涂了少量油脂的烤盘上。</p>
+<p><span class="vocabulary"><strong>microwave</strong></span> ['maɪkrəweɪv]
+<span class="definition">vt. 用微波炉烹煮（或加热）：</span>Microwave the vegetables until tender. 用微波炉加热蔬菜，直至蔬菜变得软嫩。</p>
+<p><span class="vocabulary"><strong>dip</strong></span> [dɪp]
+<span class="definition">vt. dip sth (into sth) / dip sth (in) 把…快速放入液体中然后将其拿出，即蘸，浸：</span>The fruit had been dipped in chocolate. 这水果蘸过巧克力酱。/ Quickly dip the tomatoes in boiling water. 在沸水中把西红柿快速焯一下。</p>
+<p><span class="vocabulary"><strong>steam</strong></span> [sti:m]
+<span class="definition">vt.＆vi. 将食物放在沸水上用水蒸气来蒸煮，即蒸食物：</span>steamed fish 蒸鱼</p>
+<p><span class="vocabulary"><strong>coddle</strong></span> [ˈkɒdl; 美 ˈkɑ:dl]
+<span class="definition">vt.（在略低于沸点的水里）煮（蛋）：</span>了解即可</p>
+<p><span class="vocabulary"><strong>poach</strong></span> [pəʊtʃ; 美 poʊtʃ]
+<span class="definition">vt.（在煮沸的水、牛奶或其他液体中）烹煮食物（尤指鱼），如水煮、炖、煨：</span>poached salmon 清炖鲑鱼 / Poach the chicken until just cooked. 用文火把鸡肉煮到刚刚熟。/ a pear poached in red wine 红酒煨的梨 <span class="definition">vt. 水煮荷包蛋：</span>Poach the eggs for 4 minutes. 把鸡蛋打入开水中煮4分钟。/ He had a light breakfast of poached eggs and tea. 他早餐就吃了点水煮荷包蛋，喝了点茶。</p>
+<p><span class="vocabulary"><strong>percolate</strong></span> [ˈpɜ:kəleɪt; 美 ˈpɜ:rk-]
+<span class="definition">vt.&amp;vi.（用渗滤式咖啡壶）滤煮（咖啡）：</span>She percolated the coffee and put croissants in the oven to warm. 她滤煮好咖啡，然后把羊角面包放进烤箱加热。</p>
+<p><span class="vocabulary"><strong>skim</strong></span> [skɪm]
+<span class="definition">vt. ~ (sth off/from) sth 从液体表面撇去油脂、乳脂、沫子等：</span>Skim the scum off the jam and let it cool. 撇去果酱上的浮沫，让它冷却。/ Skim the jam and let it cool. 撇去果酱上的浮沫，让它冷却。/ Skim off the fat. 将油脂撇去。</p>
+<p><span class="vocabulary"><strong>scramble</strong></span> [ˈskræmbl]
+<span class="definition">vt. [常用被动式] 炒（蛋）：</span>scrambled eggs 炒蛋 / Make the toast and scramble the eggs. 把面包烤一下并炒些鸡蛋。</p>
+<p><span class="vocabulary"><strong>fry</strong></span> [fraɪ]
+<span class="definition">vt.＆vi. 将食材放在热油里进行烹饪；（食材）在热油中被烹饪。如油炸、油煎、炒：</span>fried fish 炸鱼</p>
+<p><span class="vocabulary"><strong>chip</strong></span> [tʃɪp]
+<span class="definition">vt. [英] ~ potatoes 将土豆等切条并将其油炸：</span>了解即可</p>
+<p><span class="vocabulary"><strong>sear</strong></span> [sɪə(r); 美 sɪr]
+<span class="definition">vt. 突然而猛烈地加热某事物的表面，如煎：</span>Sear the meat first (= cook the outside of it quickly at a high temperature) to retain its juices. 先把肉稍煎一下以保持肉汁。</p>
+<p><span class="vocabulary"><strong>sizzle</strong></span> [ˈsɪzl]
+<span class="definition">vi. 发出（油煎食物的）咝咝声：</span>sizzling sausages 煎得咝咝作响的香肠 / The sausages and burgers sizzled on the barbecue. 香肠和牛肉饼在烤架上咝咝作响。/ a frying pan of sizzling oil 油烧得咝咝作响的平底锅</p>
+<p><span class="vocabulary"><strong>spit</strong></span> [spɪt]
+<span class="definition">vi. 烹饪食物或燃烧东西时发出声音并迸出油或火星等：</span>meat spitting in the frying pan 在煎锅里咝咝冒油的肉 / The firewood on the fire crackled and spat. 火中的木柴噼啪作响，爆出火花。</p>
+<p><span class="vocabulary"><strong>sweat</strong></span> [swet]
+<span class="definition">vt.＆vi. [英] 烹饪方法中指将肉或蔬菜放在锅里后慢慢加热，即“焖”：</span>了解即可</p>
+<p><span class="vocabulary"><strong>simmer</strong></span> [ˈsɪmə(r)]
+<span class="definition">vt.&amp;vi. 用文火炖、煨：</span>Simmer the sauce gently for 10 minutes. 把调味汁用文火炖10分钟。/ Allow the soup to simmer gently for ten minutes. 把汤小伙煨上十分钟。/ Turn the heat down and let it simmer for thirty minutes. 把火关小，煨三十分钟。/ Turn the heat down so the sauce simmers gently. 将炉火调小，用文火炖调味汁。/ a mixture of vegetables simmered in yogurt 在酸奶里煨的什锦蔬菜 / Leave the soup to simmer. 让汤煨着。/ Make an infusion by boiling and simmering the rhubarb and camomile together. 将大黄和甘菊一起煮沸再用文火炖,熬成汤药。<span class="definition">n. [sing.] 即将沸腾的状态、文火炖：</span>Bring the sauce to a simmer and cook for 5 minutes. 改用文火，把调味汁炖5分钟。</p>
+<p><span class="vocabulary"><strong>stew</strong></span> [stju:; 美 stu:]
+<span class="definition">vt.&amp;vi. 在有盖的锅中炖、煨：</span>stewed apples 炖苹果 / Stew the apple and blackberries to make a thick pulp. 将苹果和黑莓炖成稠浆。/ stewed prunes 炖李子 / The meat needs to stew for two hours. 这肉得炖两小时。</p>
+<p><span class="vocabulary"><strong>casserole</strong></span> [ˈkæsərəʊl; 美 -roʊl]
+<span class="definition">vt. 用文火慢炖：</span>If you casserole chicken pieces, take the skin off first. 要是炖鸡块的话，先去掉鸡皮。/ casseroled chicken 鸡煲</p>
+<p><span class="vocabulary"><strong>braise</strong></span> [breɪz]
+<span class="definition">vt. 在密闭容器中用少量液体慢慢地烹煮肉和蔬菜，如煨、炖、焖：</span>braising steak (= that is suitable for braising) 供炖煮的肉排 / I braised some beans to accompany a shoulder of lamb. 我炖了些豆子，和羊肘子一块吃。/ braised cabbage 焖卷心菜</p>
+<p><span class="vocabulary"><strong>grill</strong></span> [ɡrɪl]
+<span class="definition">vt. 1 [英] 在高温的下方或上方烹制食物，如烧烤，炙烤：</span>Grill the sausages for ten minutes. 把香肠烤十分钟。/ grilled bacon 烤咸肉 <span class="definition">2 [美] 在火上烹制食物，即烧烤（尤指户外烧烤）：</span>grilled meat 烤肉</p>
+<p><span class="vocabulary"><strong>roast</strong></span> [rəʊst]
+<span class="definition">vt.＆vi. 在烤箱里或在火上烤食物（尤指烤制肉类）；以此种方式被烹制：</span>to roast a chicken 烤一只鸡 / the smell of roasting meat 烤肉的香味 <span class="definition">vt. 烘烤（或炒）坚果、豆子等（使其变干且变成褐色）：</span>roasted chestnuts 炒栗子 <span class="definition">adj. 只用于名词前，被放在烤箱里或火上烹制的：</span>roast chicken 烧鸡</p>
+<p><span class="vocabulary"><strong>toast</strong></span> [təʊst]
+<span class="definition">vt.＆vi. 烤…（尤指烤面包）；把…烤成棕色或褐色：</span>a toasted sandwich 烤过的三明治 / Place under a hot grill until the nuts have toasted. 把这些坚果放在高温烤架下面烤熟。/ Toast the bread lightly on both sides. 把面包两面都微微烘烤一下。</p>
+<p><span class="vocabulary"><strong>broil</strong></span> [brɔɪl]
+<span class="definition">vt. [美] 烤、焙（肉或鱼）：</span>broiled chicken 烤鸡 / I'll broil the lobster. 我会把这只龙虾烤着吃。</p>
+<p><span class="vocabulary"><strong>bake</strong></span> [beɪk]
+<span class="definition">vt.&amp;vi. ~ sth (for sb) / ~ (sb) sth（在烤炉里）烘烤、烘焙（食物）：</span>The house was filled with the scent of freshly baked bread. 房子里飘着新鲜出炉的烤面包的香味。/ I love to bake. 我喜欢烘烤糕点。/ How did you learn to bake cakes? 你怎么学会烘蛋糕的？/ I'm baking a birthday cake for Alex. 我在给亚历克斯烤生日蛋糕。/ the delicious smell of baking bread 烤制面包的香味 / Bake the cake for 35 to 50 minutes. 将蛋糕烘35到50分钟。/ The batter rises as it bakes. 烘烤的时候，面糊会膨胀起来。/ baked apples 烤苹果</p>
+<p><span class="vocabulary"><strong>smoke</strong></span> [sməʊk]
+<span class="definition">vt. 常用被动式，用木柴燃烧所产生的烟来熏制肉或鱼：</span>smoked ham 熏火腿</p>
+<p><span class="vocabulary"><strong>barbecue</strong></span> ['bɑːbɪkju:]
+<span class="definition">vt.＆vi. 在金属烤架上烹制食物，即烤，烧烤：</span>了解即可</p>
+<p><span class="vocabulary"><strong>burn</strong></span> [bə:n]
+<span class="definition">vt.＆vi. 食物烧焦；使食物烧焦：</span>I smell something burning in the kitchen. 我闻到厨房里有东西烧焦了。/ I burned the toast. 我把面包片烤糊了。</p>
+<p><span class="vocabulary"><strong>cure</strong></span> [kjʊə]
+<span class="definition">vt.（用干燥、烟熏、腌制等方法）加工处理食物（以使其能够长久保存）：</span>The meat was cured and smoked over the fire. 肉在火上经过了烟熏处理。</p>
+<p>周边词汇补充：
+· boil可表示煮沸；
+· garnish可指用少量食物来装饰另一种食物。</p>
+</div></template>
+
+

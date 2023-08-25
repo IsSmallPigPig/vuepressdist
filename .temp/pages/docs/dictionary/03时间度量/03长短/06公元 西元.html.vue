@@ -1,0 +1,8 @@
+<template><div><p>☀ <span class="category"><strong>公元 西元：</strong></span>
+<span class="vocabulary"><strong>AD</strong></span>（美A.D.）
+<span class="definition">abbr. [英] 公元（表示距基督出生之年的年份数，为基督教会历法所用，源自拉丁语Anno Domini）：</span>in (the year) AD 55 公元55年 / in the fifth century AD 公元五世纪</p>
+<p><span class="vocabulary"><strong>BC</strong></span>（美B.C.）
+<span class="definition">abbr. [英] 公元前（表示到基督出生那一年为止的某个年份数，为基督教会历法所用，源自拉丁语Before Christ）：</span>in (the year) 2 000 BC 在公元前2000年 / the third century BC 公元前三世纪</p>
+</div></template>
+
+

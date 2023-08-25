@@ -1,0 +1,11 @@
+<template><div><p>☀ <span class="category"><strong>装窃听器：</strong></span>
+<span class="vocabulary"><strong>wire</strong></span> ['waɪə]
+<span class="definition">vt. wire sth (for sth) 给…安装窃听器（以窃听其他人之间的谈话），相当于bug：</span>The room had been wired for sound. 这个房间已经装上了窃听器。</p>
+<p><span class="vocabulary"><strong>tap</strong></span> [tæp]
+<span class="definition">vt. [尤英] 在电话上安装窃听器（使其通话可被窃听）：</span>His phone was being tapped. 他的电话在被人窃听。</p>
+<p><span class="vocabulary"><strong>bug</strong></span> [bʌg]
+<span class="definition">vt. 在（某处）装窃听器：</span>They bugged her hotel room. 他们在她的旅馆房间里装了窃听器。/ He heard that they were planning to bug his office. 他得知他们打算在他办公室安装窃听器。</p>
+<p>· 表示“监听”、“偷听”的词群见[[03监听 偷听]]</p>
+</div></template>
+
+

@@ -1,0 +1,30 @@
+<template><div><p>☀ <span class="category"><strong>建筑空间 建筑场地：</strong></span>
+<span class="vocabulary"><strong>centre</strong></span> ['sentə]（美center）
+<span class="definition">n. [C] 用于某一目的或活动的一栋建筑物：</span>shopping, sports, leisure, community centre 购物中心；运动中心；休闲中心；社区中心</p>
+<p><span class="vocabulary"><strong>extension</strong></span> [ɪk'stenʃn]
+<span class="definition">n. 1 [C] [英] [美用addition] extension (to sth) 一个住宅上新增加的一个或一些房间：</span>home, kitchen extension 住宅延伸部分；厨房延伸部分 / They’re building an extension to their house. 他们正在扩建自家的房屋。<span class="definition">2 [C] 一栋建筑物的一个新增加的部分（即扩建部分）：</span>a planned two-storey extension to the hospital 计划在医院扩建一个两层的楼</p>
+<p><span class="vocabulary"><strong>wing</strong></span> [wɪŋ]
+<span class="definition">n. [C] 主建筑物的侧翼部分：</span>the west wing 西翼楼；西厢房 / private wing 私人厢房 / hospital wing 医院侧翼楼</p>
+<p><span class="vocabulary"><strong>area</strong></span> ['eərɪə]
+<span class="definition">n. [C] 一栋建筑物中用作某个用途的一部分，即地方，场地，区：</span>dining, lounge area 就餐区；休息区 / the hotel reception area 旅馆接待区 / waiting area 等候区 / seating area 座位区 / storage area 存储区 / no-smoking area 无烟区 / VIP area 贵宾区</p>
+<p><span class="vocabulary"><strong>bay</strong></span> [beɪ]
+<span class="definition">n. 1 [C]（一栋建筑的内部或外部的土地）用标记分隔出来的一部分（例如用于停放车辆、存储物品等）；也可指（建筑物内外被部分包围起来以作特定用途的）隔区：</span>cargo, docking, hangar, landing, loading bay 货物区；入坞区；飞机库；登陆区；装卸场 / disabled, parking（均英）bay 残疾人士专区；停车场 / sick bay 病人专区 / Put the equipment in No 3 bay. 把设备放在3号仓房。/ The animals are herded into a bay, then butchered. 动物被赶到隔栏内，然后被屠宰。<span class="definition">2 [C]（房间或建筑物）一个弧形的突出结构（尤指位于房屋前端并装有大窗的凸出部分）：</span>了解即可</p>
+<p><span class="vocabulary"><strong>floor</strong></span> [flɔ:]
+<span class="definition">n. [C, usually sing.]（一栋建筑物内用于某一活动的）一片区域或场地：</span>on the floor of the Stock Exchange (= where trading takes place) 在证券交易所的交易厅</p>
+<p><span class="vocabulary"><strong>court</strong></span> [kɔ:t]
+<span class="definition">n. [C] 建筑物的宽敞开放的区域，常有玻璃房顶：</span>the food court at the shopping mall 大型购物中心的食品区</p>
+<p><span class="vocabulary"><strong>cupboard</strong></span> ['kʌbəd]
+<span class="definition">n. [C] [英] [美为closet] 墙壁里用于储存物品的一个空间（其门与地面相接）：</span>built-in cupboards 壁橱</p>
+<p><span class="vocabulary"><strong>closet</strong></span> [ˈklɒzɪt; 美 ˈklɑ:zət]
+<span class="definition">n. [C] [尤美] 墙壁里用于储物的一个空间，带有落地门，即壁橱。也可指此种家具：</span>a walk-in closet 步入式衣帽间</p>
+<p><span class="vocabulary"><strong>service</strong></span> ['sə:vɪs]
+<span class="definition">adj.（建筑物或其他结构体的一部分）员工专用的（而非对公众开放的）：</span>the service lift 员工专用电梯</p>
+<p>相关词义延伸：
+· floor还可指一栋建筑物（尤指议会）中供人们进行正式讨论或辩论的区域（可叫议员席或议政厅）。</p>
+<p>周边词汇补充：
+· estate可指有很多同类房屋或工厂的一片土地，如住宅区、工业区、工厂区，此时为英式用法。</p>
+<p>· 表示“开发区”、“宅基地”的词群见[[23土地 场地]]
+· 表示“土地开发”、“建筑开发”的词群见[[29开发 研制]]</p>
+</div></template>
+
+

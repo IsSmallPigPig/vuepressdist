@@ -1,0 +1,10 @@
+<template><div><p>☀ <span class="category"><strong>变声 变调：</strong></span>
+<span class="vocabulary"><strong>break</strong></span> [breɪk]
+<span class="definition">vi. 指某人的嗓音因情绪或情感（如悲伤、害怕等）而变调：</span>Her voice broke as she told us the dreadful news. 她告诉我们这个可怕的消息时，声音都变了。</p>
+<p><span class="vocabulary"><strong>tight</strong></span> [taɪt]
+<span class="definition">adj. 嗓音听起来显得紧张、焦虑、烦躁、忐忑、生气等的：</span>了解即可</p>
+<p>相关词义延伸：
+· break还可指（男孩在13或14岁时嗓音）变粗，变低。</p>
+</div></template>
+
+

@@ -1,0 +1,7 @@
+<template><div><p>☀ <span class="category"><strong>宾戈：</strong></span>
+<span class="vocabulary"><strong>bingo</strong></span> ['bɪŋɡəʊ]
+<span class="definition">n. [U] 宾戈游戏（玩者均持有一张带有数字的卡片，第一个凑齐庄家喊出的全部数字或一组数字者胜出）：</span>to play bingo 玩宾戈游戏 / a bingo hall 宾戈游戏厅</p>
+<p>· 表示“骰子”的词群见[[13运气 运程]]</p>
+</div></template>
+
+

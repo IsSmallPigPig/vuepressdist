@@ -1,0 +1,8 @@
+<template><div><p>☀ <span class="category"><strong>球门 球网：</strong></span>
+<span class="vocabulary"><strong>goal</strong></span> [ɡəʊl]
+<span class="definition">n. [C] 体育运动（如足球、曲棍球等）的球门：</span>They had only one shot on goal. 他们只有一次射门。/ He kicked the ball into an open goal. 他把球踢入空门。/ Who is in goal for this team? 谁是本队的守门员？</p>
+<p><span class="vocabulary"><strong>net</strong></span> [net]
+<span class="definition">n. 1 [sing.] the net 在体育运动中可指球门网：</span>The ball went into the net. 球滚进了网。<span class="definition">2 [sing.] the net 可指网球等运动的球网：</span>to hit the ball over the net 击球过网</p>
+</div></template>
+
+

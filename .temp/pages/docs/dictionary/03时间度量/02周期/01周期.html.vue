@@ -1,0 +1,6 @@
+<template><div><p>☀ <span class="category"><strong>周期：</strong></span>
+<span class="vocabulary"><strong>cycle</strong></span> ['saɪkl]
+<span class="definition">n. [C] 循环、周期：</span>seasonal cycle 季节性的循环 / solar cycle 太阳周期 / breeding cycle 繁殖周期 / sleep cycle 睡眠周期 / business cycle 商业周期 / development cycle 发展周期 / life cycle 生命周期 / cycle length, cycle time 循环时间 / Life is a natural cycle, just like the changing seasons. 生命是自然的循环，就像四季更迭一样。</p>
+</div></template>
+
+

@@ -1,0 +1,14 @@
+<template><div><p>☀ <span class="category"><strong>栅栏 篱笆：</strong></span>
+<span class="vocabulary"><strong>fence</strong></span> [fens]
+<span class="definition">n. [C] 栅栏，围栏，篱笆：</span>stone（美）, wire, wooden fence 石质栅栏；金属丝栅栏；木头栅栏 / electric fence 电栅栏 / backyard fence（美）后院的栅栏 / boundary, security fence 分界的栅栏；安全防护的栅栏 / the fence line separating the United States from Mexico 将美国与墨西哥隔开的栅栏边境线 / She leaned over the fence. 她斜靠在篱笆上。/ a fence around the site 场地的围栏</p>
+<p><span class="vocabulary"><strong>grid</strong></span> [grɪd]
+<span class="definition">n. [C]（金属或木制的、相互平行或交叉的）格子，格栅，栅栏：</span>a grid of ironwork 铁格栅</p>
+<p><span class="vocabulary"><strong>picket</strong></span> [ˈpɪkɪt]
+<span class="definition">n. [C]（尤指栅栏的）尖木桩，尖板条：</span>a picket fence 尖板条栅栏</p>
+<p><span class="vocabulary"><strong>wire</strong></span> ['waɪə]
+<span class="definition">n. [sing.] the wire 可指金属丝编制的栅栏，如铁丝网：</span>They cut the perimeter wire and escaped. 他们剪断了环绕四周的铁丝网逃跑了。/ Behind the wire, the prisoners were exercising. 铁丝网内，囚犯们正在操练。</p>
+<p>周边词汇补充：
+· hedge可指栽种在一起的一排灌木或小树，常在田地、园子或道路的边缘，即树篱。</p>
+</div></template>
+
+

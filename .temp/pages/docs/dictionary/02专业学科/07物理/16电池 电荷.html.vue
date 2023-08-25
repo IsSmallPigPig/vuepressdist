@@ -1,0 +1,14 @@
+<template><div><p>☀ <span class="category"><strong>电池 电荷：</strong></span>
+<span class="vocabulary"><strong>battery</strong></span> ['bætərɪ]
+<span class="definition">n. [C] 包含一个或多个单芯电池（cell）的一种装置，可称为“电池”、“电池组”：</span>a rechargeable battery 可充电的电池 / The battery is flat. 电池没电了。/ dead, flat battery 电量用完了的电池 / spare battery 备用电池 / car, laptop, phone battery 汽车蓄电池（电瓶）；笔记本电脑电池；手机电池 / battery life 电池寿命 / battery pack 电池组</p>
+<p><span class="vocabulary"><strong>cell</strong></span> [sel]
+<span class="definition">n. [C] 单芯电池：</span>a photoelectric cell 光电池</p>
+<p><span class="vocabulary"><strong>charge</strong></span> [tʃɑːdӡ]
+<span class="definition">n. [C, U] 电池（或带电物质）的充电量、带电量、电荷：</span>positive, negative charge 正电荷；负电荷 <span class="definition">vt. charge (sth) (up) 给…充电：</span>Before use, the battery must be charged. 电池使用前必须充电。</p>
+<p><span class="vocabulary"><strong>charged</strong></span> [tʃɑ:dʒd; 美tʃɑrdʒd]
+<span class="definition">adj.（粒子）带电的：</span>negatively charged ions. 负离子 / It's wise to take a fully charged spare battery with you. 随身带一块充满电的备用电池是明智之举。/ electrically charged particles带电粒子</p>
+<p><span class="vocabulary"><strong>flat</strong></span> [flæt]
+<span class="definition">adj. [英]（电池）电用完了的：</span>了解即可</p>
+</div></template>
+
+

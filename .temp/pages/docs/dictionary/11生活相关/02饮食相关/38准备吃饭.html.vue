@@ -1,0 +1,21 @@
+<template><div><p>☀ <span class="category"><strong>准备吃饭：</strong></span>
+<span class="vocabulary"><strong>set</strong></span> [set]
+<span class="definition">vt. set a/the table 将餐具摆放到餐桌上（以准备吃饭）：</span>The table was set for eight guests. 桌子上摆放了八位客人的餐具。<span class="definition">adj. 只作前置定语，指餐馆的饭菜价格固定且选择范围有限的，即套（餐）的：</span>a set meal 一份套餐 / a set lunch 午餐套餐</p>
+<p><span class="vocabulary"><strong>lay</strong></span> [leɪ]
+<span class="definition">vt. [英；旧时] 在桌子上摆放刀叉、盘子等餐具（准备用餐），相当于set：</span>to lay the table 摆好餐具准备用餐</p>
+<p><span class="vocabulary"><strong>follow</strong></span> ['fɒləʊ]
+<span class="definition">vt.＆vi. 在饮食中可指接下来的食物是…（如下一道菜是…）：</span>The main course was followed by fresh fruit. 主菜以后是新鲜水果。</p>
+<p><span class="vocabulary"><strong>spoon</strong></span> [spu:n]
+<span class="definition">vt. 用勺子掀起或移动食物，如舀：</span>She spooned the sauce over the chicken pieces. 她用勺把沙司浇到鸡块上。</p>
+<p><span class="vocabulary"><strong>pour</strong></span> [pɔ:]
+<span class="definition">vt.＆vi. pour (sth) (out) 将饮料从容器中倒出（如倒进杯子里）：</span>Will you pour the coffee? 你来倒咖啡好吗？<span class="definition">vt. 使液体或其他物质从容器中以一股的形式持续地流出（尤指通过使该容器处于一定角度），即倾倒：</span>Pour the sauce over the pasta. 把酱汁浇在面食上。/ Helen poured out two stiff drinks. 海伦倒了两杯烈酒。</p>
+<p><span class="vocabulary"><strong>refresh</strong></span> [rɪ'freʃ]
+<span class="definition">vt. [尤美，非正式] 给某人的杯子重新倒满或斟满：</span>Let me refresh your glass. 我给你再斟一杯吧。</p>
+<p><span class="vocabulary"><strong>charge</strong></span> [tʃɑːdӡ]
+<span class="definition">vt. 英国正式用法中可指注满玻璃杯：</span>Please charge your glasses and drink a toast to the bride and groom! 请各位斟满酒杯向新娘、新郎敬酒！</p>
+<p>周边词汇补充：
+· serve可指（例如在餐馆或用餐期间）给某人提供或端上食物或饮料；
+· dip可指蘸。</p>
+</div></template>
+
+

@@ -1,0 +1,12 @@
+<template><div><p>☀ <span class="category"><strong>发言人：</strong></span>
+<span class="vocabulary"><strong>speaker</strong></span> ['spi:kə]<br>
+<span class="definition">n. [C] 发言人：</span>a keynote speaker at the Republic convention 共和党大会上的主要发言人</p>
+<p><span class="vocabulary"><strong>spokesman</strong></span> ['spəʊksmən]<br>
+<span class="definition">n. [C] spokesman (for sb/sth) 代表一个组织进行发言的人：</span>a police spokesman 警方发言人 / a spokesman for the government 政府发言人</p>
+<p><span class="vocabulary"><strong>mouthpiece</strong></span> [ˈmaʊθpi:s]
+<span class="definition">n. [C] ~ (of/for sb) 代表另一个人或群体发言的一个人，如代言人、发言人：</span> political mouthpiece 政治代言人 / The Press Secretary serves as the President's mouthpiece. 新闻部长担任总统的代言人。</p>
+<p>周边词汇补充：
+· contributor可指（会议的）发言人。</p>
+</div></template>
+
+

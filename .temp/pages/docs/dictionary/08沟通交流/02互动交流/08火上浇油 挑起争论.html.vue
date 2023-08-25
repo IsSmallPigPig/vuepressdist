@@ -1,0 +1,8 @@
+<template><div><p>☀ <span class="category"><strong>火上浇油 挑起争论：</strong></span>
+<span class="vocabulary"><strong>fuel</strong></span> [fjʊəl]
+<span class="definition">n. [U] 使…（尤指争论）更加糟糕的言论或行为：</span>to add fuel to the debate 使辩论更加激烈 / to add fuel to the fire（比喻用法）火上浇油</p>
+<p>周边词汇补充：
+· challenging可指（人的行动）挑起人们与你的争论的，或表明你不赞同他们的。</p>
+</div></template>
+
+
