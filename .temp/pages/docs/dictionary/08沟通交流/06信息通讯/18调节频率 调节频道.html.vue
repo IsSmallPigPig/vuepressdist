@@ -1,6 +1,0 @@
-<template><div><p>☀ <span class="category"><strong>调节频率 调节频道：</strong></span>
-<span class="vocabulary"><strong>tune</strong></span> [tju:n]
-<span class="definition">vt. tune sth (in) (to sth) 常用被动式，给收音机、电视等调频率或频道（使其能够接收到某一频率或频道）：</span>I tuned to the BBC for the late news. 我调到英国广播电台收听晚间新闻。/ The television was tuned to a cartoon. 电视被调到了一个动画片频道。/ Stay tuned for the news. 稍后请继续收听本台新闻。</p>
-</div></template>
-
-

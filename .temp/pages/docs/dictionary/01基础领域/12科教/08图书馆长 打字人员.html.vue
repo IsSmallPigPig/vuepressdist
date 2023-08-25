@@ -1,8 +1,0 @@
-<template><div><p>☀ <span class="category"><strong>图书馆长 打字人员：</strong></span>
-<span class="vocabulary"><strong>librarian</strong></span> [laɪ'breərɪən]
-<span class="definition">n. [C] 图书管理员，图书馆馆长：</span>a librarian of the library 这座图书馆的管理员 / public librarian 公共图书管理员 / school, university librarian 学校图书管理员；大学图书管理员</p>
-<p><span class="vocabulary"><strong>typist</strong></span> ['taɪpɪst]
-<span class="definition">n. 1 [C] 打字员：</span>shorthand typist（英）速记打字员 / touch typist（通常用touch-typist）盲打打字员 <span class="definition">2 [C] 用打字机或计算机键盘进行打字的人：</span>He’s quite a fast typist. 他打字很快。</p>
-</div></template>
-
-

@@ -1,6 +1,0 @@
-<template><div><p>☀ <span class="category"><strong>演播室 录音棚：</strong></span>
-<span class="vocabulary"><strong>studio</strong></span> ['stju:dɪəʊ]
-<span class="definition">n. [C] 广播或电视节目的演播室，音乐的录音棚：</span>broadcast, production, radio, sound, television studio 播音室；制作室；电台直播间；录音棚；电视演播室 / music studio 音乐工作室 / studio work 录制工作 / a studio audience for a television sitcom 情景喜剧录制现场的观众</p>
-</div></template>
-
-

@@ -1,8 +1,0 @@
-<template><div><p>☀ <span class="category"><strong>轻松地说 字斟句酌：</strong></span>
-周边词汇补充：
-· light可指（说话等的方式）轻松的，不严肃的；
-· choice words/phrases 可指字斟句酌的，仔细推敲过的。</p>
-<p>· 表示“赞美”的词群见[[02钦佩 欣赏 赞美 表扬 鼓掌]]</p>
-</div></template>
-
-

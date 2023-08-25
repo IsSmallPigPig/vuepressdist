@@ -1,7 +1,0 @@
-<template><div><p>☀ <span class="category"><strong>信用 信誉：</strong></span>
-<span class="vocabulary"><strong>credit</strong></span> ['kredɪt]
-<span class="definition">n. [U] 信用，信誉，即出借方对借贷方的信任：</span>credit rating, credit score, credit scoring 信用等级；信用评分 / credit history, credit record 信用记录 / credit file, credit report 信用档案；信用报告 / credit risk 信用风险 / a letter of credit 信用证 / Her credit isn’t good anywhere now. 她借钱不还，弄得声名狼藉。</p>
-<p>· 表示“风险”的词群见[[06冒险 风险]]</p>
-</div></template>
-
-

@@ -1,9 +1,0 @@
-<template><div><p>☀ <span class="category"><strong>抱怨 叹息：</strong></span>
-<span class="vocabulary"><strong>sniff</strong></span> [snɪf]
-<span class="definition">vt.＆vi. 抱怨地说；不同意或不以为然地说：</span>‘It’s hardly what I’d call elegant,’ she sniffed.“要我说，这很难称得上雅致。”她不以为然地说。</p>
-<p><span class="vocabulary"><strong>sigh</strong></span> [saɪ]
-<span class="definition">vi. 叹着气说，叹息道：</span>‘Oh well, better luck next time,’ she sighed. “唉，就这样了，但愿下一次运气好些。”她叹息道。</p>
-<p>· 表示“抱怨“的词群见[[23警告 命令 吩咐 催促 抱怨]]</p>
-</div></template>
-
-
